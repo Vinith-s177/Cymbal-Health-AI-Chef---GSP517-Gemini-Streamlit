@@ -1,0 +1,6 @@
+{
+  "name": "Cymbal Health AI Chef - GSP517 Gemini & Streamlit",
+  "description": "AI-based recipe and meal recommendation application built for Cymbal Health using Gemini, with dietary preferences, allergy safeguards, kitchen ingredients, and wine pairings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
